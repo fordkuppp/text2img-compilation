@@ -1,6 +1,7 @@
 # text2img-compilation
 
 This repo aims to compare the performance and capabilities of three notable text-to-image synthesis models: AttnGAN, DF-GAN, GALIP, and state of the art model like Stable Diffusion.
+There is also an accompanying [medium article](https://medium.com/@pantnt/deep-learning-project-2-evolution-of-text-to-image-generation-e2170036a836), and [presentation slides](https://github.com/fordkuppp/text2img-compilation/blob/main/slides.pdf).
 
 ## Introduction
 
